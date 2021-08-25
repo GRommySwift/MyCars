@@ -31,7 +31,7 @@
 		<key>rating</key>
 		<real>5</real>
 		<key>myChoice</key>
-		<true/>
+		<false/>
 		<key>tintColor</key>
 		<dict>
 			<key>green</key>
@@ -56,7 +56,7 @@
 		<key>rating</key>
 		<real>5</real>
 		<key>myChoice</key>
-		<false/>
+		<true/>
 		<key>tintColor</key>
 		<dict>
 			<key>green</key>
